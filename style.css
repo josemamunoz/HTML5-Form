@@ -1,0 +1,43 @@
+form{
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+    
+}
+
+#header-form{
+    padding: 10px 20px 10px 20px;
+    background-color: #F7F7F7;
+}
+
+#first-div{
+    margin: 0 20px 10px 20px;
+}
+#second-div{
+    margin: 0 20px 0 20px;
+}
+#third-div{
+    margin: 0 20px 0 20px;
+}
+#forth-div{
+    margin: 0 20px 0 20px;
+}
+#fifth-div{
+    margin: 0 20px 0 20px;
+}
+.input-group-text{
+    
+   
+}
+
+#footer-form{
+   background-color: #F7F7F7;
+   padding: 10px 0 10px 0;
+}
+
+
+#cancel{
+   
+}
+
